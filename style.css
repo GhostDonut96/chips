@@ -1,0 +1,36 @@
+body{
+	background-color: black;
+	color: lightblue;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+img{
+	width: 331px;
+	height: 500px;
+	margin: 15px;
+	background-color: lightblue;
+	padding: 10px;
+	border: 15px solid darkred;
+	border-radius: 50px;
+}
+
+#books{
+	display: inline-flex;
+}
+
+li{
+	list-style-type: khmer;	
+}
+
+#Title{
+	font-family: 'Merriweather', serif;
+	color: blueviolet;
+}
+
+.centre{
+	text-align: center;
+}
+
+a{
+	color: lightblue;
+}
